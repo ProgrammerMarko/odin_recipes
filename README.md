@@ -1,5 +1,9 @@
 # Odin Recipes
 
+## GitHub Pages
+
+https://programmermarko.github.io/odin_recipes/
+
 ## Project Task
 
 The goal of this project was to build a basic static recipe website. The site comprises a primary index page that links out to individual recipe pages. The assignment emphasized using foundational HTML skills rather than advanced styling or scripting.

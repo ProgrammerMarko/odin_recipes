@@ -1,27 +1,17 @@
 # Odin Recipes
 
-## GitHub Pages
+A simple multi-page recipe website built as part of [The Odin Project – Foundations Course](https://www.theodinproject.com/lessons/foundations-recipes). This project demonstrates the fundamentals of HTML and CSS, focusing on structure, navigation, and basic styling - forming the foundation for more complex web development projects.
 
-https://programmermarko.github.io/odin_recipes/
+## Technologies used:
 
-## Project Task
+- HTML5
 
-The goal of this project was to build a basic static recipe website. The site comprises a primary index page that links out to individual recipe pages. The assignment emphasized using foundational HTML skills rather than advanced styling or scripting.
+- [CSS3](https://www.theodinproject.com/lessons/foundations-block-and-inline#assignment)
 
-## Purpose
+- Git & GitHub for version control
 
-The primary purpose was to reinforce fundamental HTML structure and navigation concepts — creating a multi-page site, semantic markup for headings, lists, linking between pages, and static content organization. Styling (CSS) and complex interactivity were intentionally deferred. The emphasis is on correct HTML semantics and file/directory organization.
+- GitHub Pages for deployment
 
-## Implementation
+## Live Demo
 
-- A new GitHub repository was created and cloned locally, establishing version control via Git.
-
-- The root index.html file was initialized with the standard HTML5 boilerplate and a top-level heading.
-
-- A subdirectory (recipes/) was created to hold individual recipe pages (.html files).
-
-- On each recipe page, content was structured to include: a representative image of the finished dish, a “Description” section, an “Ingredients” section, a “Steps” section and a link to "Home".
-
-## Link
-
-https://www.theodinproject.com/lessons/foundations-recipes
+You can view the live version here: [View on GitHub Pages](https://programmermarko.github.io/odin_recipes/)
